@@ -1,0 +1,14 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 3470-E1AD
+
+ Directory of E:\Devops project\Java project
+
+16-Sep-17  07:12 PM    <DIR>          .
+16-Sep-17  07:12 PM    <DIR>          ..
+16-Sep-17  06:12 PM    <DIR>          Helloworld
+16-Sep-17  06:07 PM               495 index.html
+16-Sep-17  06:07 PM               495 readme.txt
+16-Sep-17  03:29 PM               152 Test.java
+16-Sep-17  07:12 PM                 0 text.txt
+               4 File(s)          1,142 bytes
+               3 Dir(s)  83,745,705,984 bytes free
